@@ -154,11 +154,36 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
     </script>
     
         </section>-->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2023年12月8日(金)〜9日(土)@ホテル湯西川 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2025年12月15日(火)〜16日(水)@ホテル奥久慈館 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div>
+
+<p>今年も野口さんは佐々木さんと昼食、今回は高根沢のお店</p>
+<a href="20251217_063.JPG" target="_blank"><img src="20251217_063.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251217_064.JPG" target="_blank"><img src="20251217_064.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<p>宿でのくつろぎモード</p>
+<a href="20251217_051.JPG" target="_blank"><img src="20251217_051.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251217_052.JPG" target="_blank"><img src="20251217_052.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251217_053.JPG" target="_blank"><img src="20251217_053.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251217_054.JPG" target="_blank"><img src="20251217_054.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251217_055.JPG" target="_blank"><img src="20251217_055.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251217_056.JPG" target="_blank"><img src="20251217_056.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<p>宿の前で記念撮影</p>
+<a href="20251217_059.JPG" target="_blank"><img src="20251217_059.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251217_060.JPG" target="_blank"><img src="20251217_060.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251217_061.JPG" target="_blank"><img src="20251217_061.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251217_062.JPG" target="_blank"><img src="20251217_062.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<p>帰道に岡宅に寄りました</p>
+<a href="20251217_057.JPG" target="_blank"><img src="20251217_057.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251217_058.JPG" target="_blank"><img src="20251217_058.JPG" alt="サンプル画像" class="responsive-media"></a>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2023年12月8日(金)〜9日(土)@ホテル湯西川 !!!</marquee></span></h1>
 <div>
 	<p>今年も去年と同じく野口さんに来ていただき氏家のすぎのやにて佐々木さんと昼食</p>
 <a href="20231208_001.JPG" data-lightbox="abc"><img src="20231208_001.JPG" alt="サンプル画像" width="900" /></a>
