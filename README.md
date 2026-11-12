@@ -190,6 +190,9 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20261112yunishikawa_00027.jpg" target="_blank"><img src="20261112yunishikawa_00027.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261112yunishikawa_00028.jpg" target="_blank"><img src="20261112yunishikawa_00028.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261112yunishikawa_00029.jpg" target="_blank"><img src="20261112yunishikawa_00029.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00030.jpg" target="_blank"><img src="20261112yunishikawa_00030.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00031.jpg" target="_blank"><img src="20261112yunishikawa_00031.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00032.jpg" target="_blank"><img src="20261112yunishikawa_00032.jpg" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2025年12月15日(火)〜16日(水)@ホテル奥久慈館 !!!</marquee></span></h1>
