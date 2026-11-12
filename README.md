@@ -156,6 +156,7 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
         </section>-->
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2026年11月12日(木)〜13日(金)@ホテル奥久慈館 !!!</marquee></span></h1>
+<p align="left"> <img src="QR_2026Nov12_.png" alt="アクセス用QRコード" width="100">QR for Access</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
