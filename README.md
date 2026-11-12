@@ -155,11 +155,44 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
     
         </section>-->
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2025年12月15日(火)〜16日(水)@ホテル奥久慈館 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2026年11月12日(木)〜13日(金)@ホテル奥久慈館 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
 
+<a href="20261112yunishikawa_00001.jpg" target="_blank"><img src="20261112yunishikawa_00001.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00002.jpg" target="_blank"><img src="20261112yunishikawa_00002.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00003.jpg" target="_blank"><img src="20261112yunishikawa_00003.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00004.jpg" target="_blank"><img src="20261112yunishikawa_00004.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00005.jpg" target="_blank"><img src="20261112yunishikawa_00005.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00006.jpg" target="_blank"><img src="20261112yunishikawa_00006.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00007.jpg" target="_blank"><img src="20261112yunishikawa_00007.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00008.jpg" target="_blank"><img src="20261112yunishikawa_00008.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00009.jpg" target="_blank"><img src="20261112yunishikawa_00009.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00010.jpg" target="_blank"><img src="20261112yunishikawa_00010.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00011.jpg" target="_blank"><img src="20261112yunishikawa_00011.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00012.jpg" target="_blank"><img src="20261112yunishikawa_00012.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00013.jpg" target="_blank"><img src="20261112yunishikawa_00013.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00014.jpg" target="_blank"><img src="20261112yunishikawa_00014.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00015.jpg" target="_blank"><img src="20261112yunishikawa_00015.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00016.jpg" target="_blank"><img src="20261112yunishikawa_00016.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00017.jpg" target="_blank"><img src="20261112yunishikawa_00017.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00018.jpg" target="_blank"><img src="20261112yunishikawa_00018.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00019.jpg" target="_blank"><img src="20261112yunishikawa_00019.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00020.jpg" target="_blank"><img src="20261112yunishikawa_00020.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00021.jpg" target="_blank"><img src="20261112yunishikawa_00021.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00022.jpg" target="_blank"><img src="20261112yunishikawa_00022.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00023.jpg" target="_blank"><img src="20261112yunishikawa_00023.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00024.jpg" target="_blank"><img src="20261112yunishikawa_00024.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00025.jpg" target="_blank"><img src="20261112yunishikawa_00025.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00026.jpg" target="_blank"><img src="20261112yunishikawa_00026.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00027.jpg" target="_blank"><img src="20261112yunishikawa_00027.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00028.jpg" target="_blank"><img src="20261112yunishikawa_00028.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00029.jpg" target="_blank"><img src="20261112yunishikawa_00029.jpg" alt="サンプル画像" class="responsive-media"></a>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2025年12月15日(火)〜16日(水)@ホテル奥久慈館 !!!</marquee></span></h1>
+<div>
 <p>今年も野口さんは佐々木さんと昼食、今回は高根沢のお店</p>
 <a href="20251217_063.JPG" target="_blank"><img src="20251217_063.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251217_064.JPG" target="_blank"><img src="20251217_064.JPG" alt="サンプル画像" class="responsive-media"></a>
