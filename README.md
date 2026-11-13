@@ -201,6 +201,11 @@ document.write ("<br>以上、お帰りも気を付けて、次回も元気に�
 <a href="20261112yunishikawa_00038.jpg" target="_blank"><img src="20261112yunishikawa_00038.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261112yunishikawa_00039.jpg" target="_blank"><img src="20261112yunishikawa_00039.jpg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261112yunishikawa_00040.jpg" target="_blank"><img src="20261112yunishikawa_00040.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00041.jpg" target="_blank"><img src="20261112yunishikawa_00041.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00042.jpg" target="_blank"><img src="20261112yunishikawa_00042.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00043.jpg" target="_blank"><img src="20261112yunishikawa_00043.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00044.jpg" target="_blank"><img src="20261112yunishikawa_00044.jpg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261112yunishikawa_00045.jpg" target="_blank"><img src="20261112yunishikawa_00045.jpg" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2025年12月15日(火)〜16日(水)@ホテル奥久慈館 !!!</marquee></span></h1>
